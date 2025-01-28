@@ -3,7 +3,7 @@
 <h3>Color Picker</h3>
 A simple color picker web app
 
-![image](https://github.com/user-attachments/assets/4ee9cb5b-6e5b-4cd8-af36-a40f85989bbd)
+![color-picker](https://github.com/user-attachments/assets/707594df-f973-41ba-bc91-4c49d359e697)
 
 <h3>To-Do-List</h3>
 To-Do-List web app
